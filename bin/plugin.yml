@@ -1,0 +1,8 @@
+main: com.krisp.minecraft.gravehelper.Gravehelper
+name: Gravehelper
+version: 1.0
+author: krisp
+
+commands:
+  graves:
+  grave:
