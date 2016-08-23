@@ -6,3 +6,15 @@ author: krisp
 commands:
   graves:
   grave:
+  gravepop:
+
+permissions:
+  gravehelper.command.graves:
+    description: Allowed to list all graves and their locations
+    default: false
+  gravehelper.command.grave:
+    description: Allowed to teleport to grave
+    default: false
+  gravehelper.command.gravepop:
+    description: Allowed to drop grave contents at player location
+    default: false
